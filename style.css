@@ -1,0 +1,75 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+bg{
+  
+}
+
+
+      /* THIS IS A NAV */
+
+.topnav {
+  background: linear-gradient(to right, #134c7b, #42a8ff);
+  overflow: hidden;
+}
+
+.topnav a {
+  float: right;
+  color: black;
+  text-align: center;
+  padding: 30px 25px 25px 10px;
+  text-decoration: none;
+  font-size: 20px;
+  margin-right: 88px;
+  font-family: serif;
+}
+
+.topnav a:hover {
+  color: white;
+}
+
+
+/* THIS IS A TEXT */
+h4{
+    font-size: 90px;
+    color: black;
+    font-family: serif;
+    padding: 250px 0px 0px 125px;
+}
+
+span{
+   padding-left: 140px;
+}
+
+.caption{
+    font-size: 23px;
+    color: black;
+    padding-left: 125px;
+    padding-top: 10px;
+}
+
+/* THIS IS A IMAGE */
+.profile{
+    height: 480px;
+    float: right;
+    margin: -356px 215px 0px 0px;
+    padding-right: 0px;
+    box-shadow: -1px -4px 27px -3px black;
+}
+
+
+.btn {
+  background-color: black;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  font-size: 16px;
+  margin:40px 2px 0px 400px;
+  opacity: 1;
+  transition: 0.3s;
+}
+
+.btn:hover {opacity: 0.6}
